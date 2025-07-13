@@ -1,1 +1,1 @@
-# codsoft_2
+# MOVIE-RATING-PREDICTION
